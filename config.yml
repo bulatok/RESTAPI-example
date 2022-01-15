@@ -1,0 +1,2 @@
+psql : postgres://postgres:qwerty@database:5432/task?sslmode=disable
+port : :8080
