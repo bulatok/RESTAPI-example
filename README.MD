@@ -1,9 +1,9 @@
-###Запуск приложение с docker-compose
+### Запуск приложение с docker-compose
 ```bash
     git clone https://github.com/bulatok/task.git
     make start
 ```
-###Про реализацию
+### Про реализацию
 Во время запуска приложения поднимается бд(PostgreSQL) в который имеетя всего одно отношение - users(id, name, surname, phone_number)
 
 Есть один хендлер '/', который 
