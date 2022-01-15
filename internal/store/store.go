@@ -2,8 +2,8 @@ package store
 
 import (
 	"database/sql"
-	"task1/internal/models"
-	"task1/internal/store/SQLdb"
+	"github.com/bulatok/task/internal/models"
+	"github.com/bulatok/task/internal/store/SQLdb"
 )
 
 type Store interface{

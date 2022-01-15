@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	_ "github.com/lib/pq"
-	"task1/internal/models"
+	"github.com/bulatok/task/internal/models"
 )
 
 type PostgresDB struct{

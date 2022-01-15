@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/bulatok/task/internal/server"
 	"log"
-	"task1/internal/server"
 )
 
 func main(){

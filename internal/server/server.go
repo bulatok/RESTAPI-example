@@ -6,8 +6,8 @@ import (
 	"io"
 	"log"
 	"net/http"
-	"task1/internal/models"
-	"task1/internal/store"
+	"github.com/bulatok/task/internal/models"
+	"github.com/bulatok/task/internal/store"
 )
 
 type Server struct{
